@@ -54,7 +54,5 @@ This pad runs on **KMK Firmware** using CircuitPython.
 * **5x** Blank DSA Keycaps (White)
 * **1x** EC11 Rotary Encoder
 * **1x** 0.91" 128x32 OLED Display (GND-VCC-SCL-SDA)
-* **5x** 1N4148 Diodes
 * **4x** M3x16mm Screws
 * **4x** M3x5x4mm Heatset Inserts
-* **1x** 3D Printed Case
