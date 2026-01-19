@@ -1,6 +1,6 @@
 # IzeePad 
 
-![IzeePad Side View](macropad-side.png)
+![IzeePad Side View](render.tif)
 
 **IzeePad** is a custom 5-key macropad built as a fun exploration into the world of mechanical keyboards and custom electronics. I spend a lot of time at my desk, and I thought it would be a rewarding challenge to build a tool that makes my creative workflow just a little bit more personal.
 
